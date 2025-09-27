@@ -73,8 +73,8 @@ API Gateway — это точка входа для всех внешних за
 | **Поддержка протоколов**        | AMQP, MQTT, STOMP      | Kafka API                | NATS protocol            | Redis protocol           | AMQP, MQTT, OpenWire     |
 | **Мониторинг/UI**               | Да (RabbitMQ Management) | Да (Kafka Manager, etc.)| Да (JetStream console, observability) | Ограниченно (через Redis GUI) | Да (HawtIO, web-консоль) |
 
-##  Выбор: RabbitMQ
-### Почему RabbitMQ — лучший выбор
+#  Выбор: RabbitMQ
+## Почему RabbitMQ — лучший выбор
 - Полная поддержка всех требований
 - Простота эксплуатации (web-интерфейс, готовые образы)
 - Тонкая настройка прав
